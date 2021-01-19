@@ -2,6 +2,8 @@
 
 Projeto base usando React, Redux e Enzyme como biblioteca de testes.
 
+![](/delivery.png)
+
 ## Requerimentos de ambiente
 
 NodeJS > 12.0
